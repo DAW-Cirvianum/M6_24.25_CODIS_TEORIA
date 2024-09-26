@@ -1,4 +1,3 @@
-c;
 // Com puc mostrar tots els articles i el seu preu un  darrere l'altre?
 
 // FOR
